@@ -1,0 +1,14 @@
+body {
+ background-image: url(https://www.taylorguitars.com/sites/default/files/styles/hero_images/public/images/2022-11/taylor-features-shapes-hero.jpg?itok=gz1vU_j3);
+    background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+ text-align: center;
+
+ 
+}
+table, th, td {
+   border: 1px solid azure;
+   font-style: italic;
+   margin: auto;
+}
